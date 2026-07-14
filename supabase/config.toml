@@ -1,0 +1,40 @@
+project_id = "ehtkwmsowcgauklwusdn"
+
+[functions.start-run]
+verify_jwt = false
+
+[functions.pipeline-step-1-classify]
+verify_jwt = false
+
+[functions.pipeline-step-2-generate]
+verify_jwt = false
+
+[functions.pipeline-step-2b-judge]
+verify_jwt = false
+
+[functions.pipeline-step-3-uspto]
+verify_jwt = false
+
+[functions.pipeline-step-4-domains]
+verify_jwt = false
+
+[functions.pipeline-step-5-web]
+verify_jwt = false
+
+[functions.pipeline-step-6-score]
+verify_jwt = false
+
+[functions.pipeline-step-7-finalise]
+verify_jwt = false
+
+[functions.start-checkout]
+verify_jwt = false
+
+[functions.stripe-webhook]
+verify_jwt = false
+
+[functions.admin-stats]
+verify_jwt = false
+
+[functions.setup-stripe-products]
+verify_jwt = false

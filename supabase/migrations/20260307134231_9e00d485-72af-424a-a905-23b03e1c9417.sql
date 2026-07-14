@@ -1,0 +1,2 @@
+ALTER TABLE runs ADD COLUMN IF NOT EXISTS candidates_with_domains JSONB DEFAULT '[]';
+ALTER TABLE runs ADD COLUMN IF NOT EXISTS candidates_with_web JSONB DEFAULT '[]';

@@ -1,0 +1,1 @@
+ALTER TABLE runs ADD COLUMN IF NOT EXISTS candidates_with_uspto JSONB DEFAULT '[]';

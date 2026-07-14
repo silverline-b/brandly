@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Velveden",
+    "brief_id": "dog_sling",
+    "score": 2,
+    "rated_at": "2026-07-10T13:15:29.095Z"
+  },
+  {
+    "name": "Trottega",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:31.055Z"
+  },
+  {
+    "name": "Cradlore",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:33.516Z"
+  },
+  {
+    "name": "Companache",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:35.474Z"
+  },
+  {
+    "name": "Scampfire",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:37.975Z"
+  },
+  {
+    "name": "Plushkin",
+    "brief_id": "dog_sling",
+    "score": 3,
+    "rated_at": "2026-07-10T13:15:40.096Z"
+  },
+  {
+    "name": "Dotecote",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:42.190Z"
+  },
+  {
+    "name": "Snugget",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:15:44.664Z"
+  },
+  {
+    "name": "Silkden",
+    "brief_id": "dog_sling",
+    "score": 2,
+    "rated_at": "2026-07-10T13:15:53.670Z"
+  },
+  {
+    "name": "Hearthaven",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:57.305Z"
+  },
+  {
+    "name": "Sprylark",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:15:58.919Z"
+  },
+  {
+    "name": "Nuzzlenest",
+    "brief_id": "dog_sling",
+    "score": 3,
+    "rated_at": "2026-07-10T13:16:00.586Z"
+  },
+  {
+    "name": "Snugharbor",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:16:04.430Z"
+  },
+  {
+    "name": "Scamperling",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:11.412Z"
+  },
+  {
+    "name": "Trotroyal",
+    "brief_id": "dog_sling",
+    "score": 3,
+    "rated_at": "2026-07-10T13:16:14.338Z"
+  },
+  {
+    "name": "Heartperch",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:16.619Z"
+  },
+  {
+    "name": "Velvetden",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:22.525Z"
+  },
+  {
+    "name": "Meadowmate",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:16:26.312Z"
+  },
+  {
+    "name": "Cradlecrest",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:32.242Z"
+  },
+  {
+    "name": "Sprydale",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:33.462Z"
+  },
+  {
+    "name": "Snuggery",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:16:35.699Z"
+  },
+  {
+    "name": "Perch",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:38.180Z"
+  },
+  {
+    "name": "Cozza",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:39.252Z"
+  },
+  {
+    "name": "Trilo",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:16:44.610Z"
+  },
+  {
+    "name": "Nunni",
+    "brief_id": "dog_sling",
+    "score": 3,
+    "rated_at": "2026-07-10T13:16:48.394Z"
+  },
+  {
+    "name": "Dovi",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:50.008Z"
+  },
+  {
+    "name": "Accanto",
+    "brief_id": "dog_sling",
+    "score": 3,
+    "rated_at": "2026-07-10T13:16:53.227Z"
+  },
+  {
+    "name": "Yura",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:16:55.003Z"
+  },
+  {
+    "name": "Vezzo",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:56.508Z"
+  },
+  {
+    "name": "cradle",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:57.689Z"
+  },
+  {
+    "name": "Spryte",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:16:58.790Z"
+  },
+  {
+    "name": "Companeer",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:17:01.217Z"
+  },
+  {
+    "name": "Scampagne",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:07.792Z"
+  },
+  {
+    "name": "Heartisan",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:09.653Z"
+  },
+  {
+    "name": "Courtling",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:11.439Z"
+  },
+  {
+    "name": "Satinel",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:13.211Z"
+  },
+  {
+    "name": "Jauntle",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:15.258Z"
+  },
+  {
+    "name": "Dotelier",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:16.532Z"
+  },
+  {
+    "name": "Perkin",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:17:18.689Z"
+  },
+  {
+    "name": "Cradia",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:21.977Z"
+  },
+  {
+    "name": "Cradlekin",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:26.013Z"
+  },
+  {
+    "name": "Snugden",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:17:29.211Z"
+  },
+  {
+    "name": "Cossetry",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:36.404Z"
+  },
+  {
+    "name": "Spryheart",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:37.647Z"
+  },
+  {
+    "name": "Sidekin",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:39.691Z"
+  },
+  {
+    "name": "Scampwood",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:41.397Z"
+  },
+  {
+    "name": "Noblet",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:43.321Z"
+  },
+  {
+    "name": "Trailnook",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:46.820Z"
+  },
+  {
+    "name": "Sidekick",
+    "brief_id": "dog_sling",
+    "score": 5,
+    "rated_at": "2026-07-10T13:17:49.807Z"
+  },
+  {
+    "name": "Bundle",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:17:52.272Z"
+  },
+  {
+    "name": "Snuvo",
+    "brief_id": "dog_sling",
+    "score": 4,
+    "rated_at": "2026-07-10T13:17:56.624Z"
+  },
+  {
+    "name": "Trippo",
+    "brief_id": "dog_sling",
+    "score": 3,
+    "rated_at": "2026-07-10T13:17:58.683Z"
+  },
+  {
+    "name": "Cossimo",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:00.037Z"
+  },
+  {
+    "name": "Denna",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:01.585Z"
+  },
+  {
+    "name": "Guizzo",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:02.679Z"
+  },
+  {
+    "name": "Craddle",
+    "brief_id": "dog_sling",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:04.147Z"
+  },
+  {
+    "name": "Pourvana",
+    "brief_id": "coffee_craft",
+    "score": 5,
+    "rated_at": "2026-07-10T13:18:10.554Z"
+  },
+  {
+    "name": "Aromatlas",
+    "brief_id": "coffee_craft",
+    "score": 5,
+    "rated_at": "2026-07-10T13:18:14.002Z"
+  },
+  {
+    "name": "Altiscape",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:16.835Z"
+  },
+  {
+    "name": "Terroam",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:19.757Z"
+  },
+  {
+    "name": "Hearthaven",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:18:23.569Z"
+  },
+  {
+    "name": "Kettlore",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:25.713Z"
+  },
+  {
+    "name": "Emberloom",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:27.460Z"
+  },
+  {
+    "name": "Harvale",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:29.817Z"
+  },
+  {
+    "name": "Dawnvoy",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:32.616Z"
+  },
+  {
+    "name": "Bloomwake",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:18:36.273Z"
+  },
+  {
+    "name": "Lingermist",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:18:48.680Z"
+  },
+  {
+    "name": "Bloomrise",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:18:55.558Z"
+  },
+  {
+    "name": "Firstlight",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:18:58.019Z"
+  },
+  {
+    "name": "Emberfold",
+    "brief_id": "coffee_craft",
+    "score": 2,
+    "rated_at": "2026-07-10T13:19:04.970Z"
+  },
+  {
+    "name": "Hearthwell",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:19:07.742Z"
+  },
+  {
+    "name": "Highvale",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:09.339Z"
+  },
+  {
+    "name": "Driftmist",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:19:12.508Z"
+  },
+  {
+    "name": "Kettlewick",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:19:14.680Z"
+  },
+  {
+    "name": "Stillhour",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:17.727Z"
+  },
+  {
+    "name": "Harvestide",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:19.524Z"
+  },
+  {
+    "name": "Meridian",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:19:23.305Z"
+  },
+  {
+    "name": "Simmer",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:26.537Z"
+  },
+  {
+    "name": "Emvara",
+    "brief_id": "coffee_craft",
+    "score": 5,
+    "rated_at": "2026-07-10T13:19:28.461Z"
+  },
+  {
+    "name": "Terova",
+    "brief_id": "coffee_craft",
+    "score": 5,
+    "rated_at": "2026-07-10T13:19:31.496Z"
+  },
+  {
+    "name": "Dovann",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:19:35.077Z"
+  },
+  {
+    "name": "Sollum",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:37.321Z"
+  },
+  {
+    "name": "Auria",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:19:39.523Z"
+  },
+  {
+    "name": "Quiete",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:43.336Z"
+  },
+  {
+    "name": "Calida",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:47.899Z"
+  },
+  {
+    "name": "Embr",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:19:49.380Z"
+  },
+  {
+    "name": "Pourtrait",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:19:52.110Z"
+  },
+  {
+    "name": "Steepsake",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:02.928Z"
+  },
+  {
+    "name": "Aromance",
+    "brief_id": "coffee_craft",
+    "score": 2,
+    "rated_at": "2026-07-10T13:20:05.538Z"
+  },
+  {
+    "name": "Hearthfelt",
+    "brief_id": "coffee_craft",
+    "score": 2,
+    "rated_at": "2026-07-10T13:20:07.616Z"
+  },
+  {
+    "name": "Terravoy",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:20:09.757Z"
+  },
+  {
+    "name": "Harvestory",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:13.563Z"
+  },
+  {
+    "name": "Emberwright",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:23.000Z"
+  },
+  {
+    "name": "Altitune",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:25.087Z"
+  },
+  {
+    "name": "Lingerlux",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:20:27.378Z"
+  },
+  {
+    "name": "Bloomlore",
+    "brief_id": "coffee_craft",
+    "score": 2,
+    "rated_at": "2026-07-10T13:20:29.303Z"
+  },
+  {
+    "name": "Dawnvana",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:31.866Z"
+  },
+  {
+    "name": "Emberwell",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:35.327Z"
+  },
+  {
+    "name": "Slowdawn",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:37.400Z"
+  },
+  {
+    "name": "Mistfield",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:40.491Z"
+  },
+  {
+    "name": "Bloomtide",
+    "brief_id": "coffee_craft",
+    "score": 2,
+    "rated_at": "2026-07-10T13:20:43.215Z"
+  },
+  {
+    "name": "Aromere",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:20:44.824Z"
+  },
+  {
+    "name": "Kettlewright",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:46.934Z"
+  },
+  {
+    "name": "Aubade",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:20:50.426Z"
+  },
+  {
+    "name": "Kaldera",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:20:53.626Z"
+  },
+  {
+    "name": "Terrova",
+    "brief_id": "coffee_craft",
+    "score": 3,
+    "rated_at": "2026-07-10T13:20:55.934Z"
+  },
+  {
+    "name": "Loomis",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:20:58.617Z"
+  },
+  {
+    "name": "Dovlin",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:00.280Z"
+  },
+  {
+    "name": "Sosta",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:04.559Z"
+  },
+  {
+    "name": "Cura",
+    "brief_id": "coffee_craft",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:06.247Z"
+  },
+  {
+    "name": "Altura",
+    "brief_id": "coffee_craft",
+    "score": 4,
+    "rated_at": "2026-07-10T13:21:09.748Z"
+  },
+  {
+    "name": "Keendle",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:11.961Z"
+  },
+  {
+    "name": "Vigilynx",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:17.433Z"
+  },
+  {
+    "name": "Pulsmith",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:20.617Z"
+  },
+  {
+    "name": "Swiftide",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:22.961Z"
+  },
+  {
+    "name": "Steddock",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:24.961Z"
+  },
+  {
+    "name": "Beacove",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:26.648Z"
+  },
+  {
+    "name": "Threadle",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:44.014Z"
+  },
+  {
+    "name": "Northkeep",
+    "brief_id": "dev_observability",
+    "score": 5,
+    "rated_at": "2026-07-10T13:21:46.609Z"
+  },
+  {
+    "name": "Gridwell",
+    "brief_id": "dev_observability",
+    "score": 5,
+    "rated_at": "2026-07-10T13:21:49.336Z"
+  },
+  {
+    "name": "Fluxbeam",
+    "brief_id": "dev_observability",
+    "score": 4,
+    "rated_at": "2026-07-10T13:21:53.054Z"
+  },
+  {
+    "name": "Compaze",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:56.025Z"
+  },
+  {
+    "name": "Pulsar",
+    "brief_id": "dev_observability",
+    "score": 5,
+    "rated_at": "2026-07-10T13:21:57.632Z"
+  },
+  {
+    "name": "Beckon",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:21:59.745Z"
+  },
+  {
+    "name": "Warden",
+    "brief_id": "dev_observability",
+    "score": 5,
+    "rated_at": "2026-07-10T13:22:01.692Z"
+  },
+  {
+    "name": "Anvil",
+    "brief_id": "dev_observability",
+    "score": 4,
+    "rated_at": "2026-07-10T13:22:05.509Z"
+  },
+  {
+    "name": "Cadence",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:08.101Z"
+  },
+  {
+    "name": "Clarion",
+    "brief_id": "dev_observability",
+    "score": 4,
+    "rated_at": "2026-07-10T13:22:11.202Z"
+  },
+  {
+    "name": "Vega",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:16.507Z"
+  },
+  {
+    "name": "Flint",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:17.589Z"
+  },
+  {
+    "name": "Keel",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:18.469Z"
+  },
+  {
+    "name": "Kestrel",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:19.835Z"
+  },
+  {
+    "name": "Prism",
+    "brief_id": "dev_observability",
+    "score": 5,
+    "rated_at": "2026-07-10T13:22:21.679Z"
+  },
+  {
+    "name": "Kavik",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:23.029Z"
+  },
+  {
+    "name": "Zevo",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:24.243Z"
+  },
+  {
+    "name": "Vantel",
+    "brief_id": "dev_observability",
+    "score": 3,
+    "rated_at": "2026-07-10T13:22:27.061Z"
+  },
+  {
+    "name": "Norvi",
+    "brief_id": "dev_observability",
+    "score": 2,
+    "rated_at": "2026-07-10T13:22:28.991Z"
+  },
+  {
+    "name": "Vela",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:30.435Z"
+  },
+  {
+    "name": "Vite",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:31.616Z"
+  },
+  {
+    "name": "Trygg",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:33.340Z"
+  },
+  {
+    "name": "Vigl",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:35.163Z"
+  },
+  {
+    "name": "Signite",
+    "brief_id": "dev_observability",
+    "score": 4,
+    "rated_at": "2026-07-10T13:22:39.866Z"
+  },
+  {
+    "name": "Pulstar",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:43.534Z"
+  },
+  {
+    "name": "Steadar",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:46.523Z"
+  },
+  {
+    "name": "Compulse",
+    "brief_id": "dev_observability",
+    "score": 4,
+    "rated_at": "2026-07-10T13:22:49.085Z"
+  },
+  {
+    "name": "Owlens",
+    "brief_id": "dev_observability",
+    "score": 2,
+    "rated_at": "2026-07-10T13:22:51.820Z"
+  },
+  {
+    "name": "Keenith",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:53.585Z"
+  },
+  {
+    "name": "Norvane",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:55.992Z"
+  },
+  {
+    "name": "Vigilux",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:22:58.872Z"
+  },
+  {
+    "name": "Fluxel",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:00.655Z"
+  },
+  {
+    "name": "Lumo",
+    "brief_id": "dev_observability",
+    "score": 3,
+    "rated_at": "2026-07-10T13:23:03.859Z"
+  },
+  {
+    "name": "Swyft",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:05.960Z"
+  },
+  {
+    "name": "Ballast",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:08.023Z"
+  },
+  {
+    "name": "Sentra",
+    "brief_id": "dev_observability",
+    "score": 2,
+    "rated_at": "2026-07-10T13:23:10.967Z"
+  },
+  {
+    "name": "Cairn",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:13.890Z"
+  },
+  {
+    "name": "Rivet",
+    "brief_id": "dev_observability",
+    "score": 3,
+    "rated_at": "2026-07-10T13:23:16.288Z"
+  },
+  {
+    "name": "Vigo",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:17.602Z"
+  },
+  {
+    "name": "Beam",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:19.023Z"
+  },
+  {
+    "name": "Lanto",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:20.210Z"
+  },
+  {
+    "name": "Zynt",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:22.526Z"
+  },
+  {
+    "name": "Keldan",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:23.757Z"
+  },
+  {
+    "name": "Klar",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:25.054Z"
+  },
+  {
+    "name": "Celer",
+    "brief_id": "dev_observability",
+    "score": 1,
+    "rated_at": "2026-07-10T13:23:26.335Z"
+  },
+  {
+    "name": "Certo",
+    "brief_id": "dev_observability",
+    "score": 4,
+    "rated_at": "2026-07-10T13:23:28.751Z"
+  }
+]
